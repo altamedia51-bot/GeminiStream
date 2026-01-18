@@ -1,0 +1,8 @@
+{
+  "name": "GeminiStream - Self-Hosted RTMP Manager",
+  "description": "A high-performance live streaming management dashboard for self-hosted FFmpeg-based RTMP orchestration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
